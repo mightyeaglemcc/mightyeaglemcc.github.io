@@ -1,3 +1,3 @@
 # mightyeaglemcc.github.io
-Let's get started! Power up your rig and start coding. Together we learn, code and coffee :)
-Work together to build wedsite for our campus club, lets coordinates all the club works effectively and bring transparency in the flow.
+Let's boot up and dig into our heels! Start coding, move up to be a power coder at your convenience. The more we code, the more we learn and the more we grow :).
+Let us pool our brains together to throw up a an elegant and efficient website for our Alma Mater - Toc H Institute of Science and Technology.
